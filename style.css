@@ -403,10 +403,15 @@ img {
     .showcase-form {
         justify-self: center;
         margin: auto;
+        overflow: hidden;
     }
 
     .navbar .flex {
         justify-content: center;
+    }
+
+    .service .card {
+        height: 280px;
     }
 }
 
