@@ -4,6 +4,7 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+    scroll-behavior: smooth;
 }
 
 body {
@@ -402,6 +403,10 @@ img {
     .showcase-form {
         justify-self: center;
         margin: auto;
+    }
+
+    .navbar .flex {
+        justify-content: center;
     }
 }
 
